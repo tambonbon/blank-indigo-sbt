@@ -1,3 +1,4 @@
+### From https://github.com/PurpleKingdomGames/blank-indigo-sbt
 # "Blank Indigo Game Template for SBT"
 
 A template and aid to memory to bootstrap your game.
